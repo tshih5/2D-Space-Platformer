@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Maps/Menu.unity
+    guid: 1c8aa46faa1e9df46bb5b700357d2182
+  - enabled: 0
+    path: Assets/Scenes/Enemy Scene Test.unity
+    guid: 4662778e92a64a64a824f00fbbed570f
+  - enabled: 0
+    path: Assets/Scenes/Player Movement.unity
+    guid: 8c8d25dd124e16b458460ac96d9f519c
+  - enabled: 0
+    path: Assets/Maps/Demo_1.unity
+    guid: 6bff3222bfecbdc4ea002ba27bbaf3d8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Maps/Level_Selector.unity
+    guid: e03a81e685155e64c818b158fc926d62
+  - enabled: 1
+    path: Assets/Maps/Space_Map3.unity
+    guid: 84ee050041310a44aad44746d43a4cca
+  - enabled: 1
+    path: Assets/Maps/Space_Map4.unity
+    guid: e4bb01fc6a8b52c45b813cb9a267331f
+  - enabled: 1
+    path: Assets/Maps/Space_Map5.unity
+    guid: bf2e6c660740c1e459a1df8b9ab16c0d
+  - enabled: 1
+    path: Assets/Maps/Space_Map6.unity
+    guid: d3fa0443bbf846b459998fa5a0b68083
+  - enabled: 1
+    path: Assets/Maps/Space_Map7.unity
+    guid: 85f6adbdffabb234f9adade87fbacb0e
+  - enabled: 1
+    path: Assets/Maps/Space_Map8.unity
+    guid: 178707716d9863f4f9c77bcdecc1bb4d
+  m_configObjects: {}
